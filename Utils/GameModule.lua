@@ -8,8 +8,8 @@ return(function(Installer)
         Enemies = {}
     }
 
-    local Owner = "vita6it"
-    local Repository = "Xynapse"
+    local Owner = "Cebola67"
+    local Repository = "Gunter-Hub"
 
     local Configuration = Installer.Configurations
     local Settings = Installer.Settings
